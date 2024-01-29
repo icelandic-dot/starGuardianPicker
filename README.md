@@ -1,3 +1,3 @@
 # starGuardianPicker
 
-This app gives you a chance to find out more about all the Star Guardians
+This app is a representation of my current JavaScript knowledge containing information about characters from a League of Legends Universe.
